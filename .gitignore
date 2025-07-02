@@ -1,0 +1,16 @@
+# Diretórios que devem ser ignorados
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDEs e arquivos temporários
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
